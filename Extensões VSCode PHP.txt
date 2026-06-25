@@ -1,0 +1,11 @@
+PHP IntelePhense;
+Desabilitar @builtin PHP;
+Error Lens;
+PHP Namespace Resolver:
+- No terminal do VSCode, digite "composer init";
+- Só teclar Enter em tudo até gerar o composer;
+- No arquivo "composer.json", altere o autoload da sua pasta;
+- Digitar 'composer dump-autoload'.
+PHP Awesome Snippets;
+PHP Create Class (Já com composer instalado!);
+Format HTML.
